@@ -1,0 +1,44 @@
+
+.fixed {
+   position: fixed;
+   top: 0px;
+   left: 0px;
+   padding: 50px;
+   text-align: center;
+   background-color: #eee;
+   font-size: 25px;
+}
+.box-relative {
+    position: relative;
+    background-color:  #eee;
+    height:100px ;
+    width: 500px;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+.box-absolute {
+    position: absolute;
+    background-color: #999;
+    left: 60%;
+    top: 85px;
+     height: 50x; 
+     width: 230px; 
+    text-align: center;
+    padding: 25px;
+    margin: auto;
+    font-size: 20px;
+    
+}
+.container {
+    width: 600px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+p {
+    font-size: 24px;
+}
+ h1 {
+     padding-top:  20px;
+
+ }
